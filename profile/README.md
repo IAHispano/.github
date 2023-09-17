@@ -1,5 +1,4 @@
-# 👋 Welcome to IA Hispano! 🤖🌍
-
+# 👋 Welcome to IA Hispano!
 
 We are a community-driven organization dedicated to promoting and advancing Artificial Intelligence (AI) in the Spanish-speaking world. This is the official GitHub repository where we host our programming projects and contribute to the growth of the IA Hispano community.
 
@@ -26,7 +25,6 @@ Have questions, suggestions, or want to get in touch with the IA Hispano communi
 
 - Website: [www.iahispano.com](https://iahispano.com)
 - Email: contacto@iahispano.org
-- Twitter: [@IAHispano](https://twitter.com/IAHispano)
 - Discord: [IA Hispano Community](https://discord.gg/iahispano)
 
-Let's build a vibrant AI community together! 🤝🌟
+Let's build an AI community together! 🤝
