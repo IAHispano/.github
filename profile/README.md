@@ -1,5 +1,5 @@
-# 🤖 A Hispano
-I
+# 🤖 AI Hispano
+
 We are a community-driven organization dedicated to promoting and advancing Artificial Intelligence. This is the official GitHub repository where we host our programming projects and contribute to the growth of the AI Hispano community.
 
 ## 📞 Contact Us
