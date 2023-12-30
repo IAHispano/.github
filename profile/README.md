@@ -1,11 +1,12 @@
-# 🤖 AI Hispano
+
+![BANNER](https://github.com/IAHispano/.github/assets/133521603/0b212d9b-5ad2-4306-a1a4-6ca0b80a4e6d)
 
 We are a community-driven organization dedicated to promoting and advancing Artificial Intelligence. This is the official GitHub repository where we host our programming projects and contribute to the growth of the AI Hispano community.
 
-## 📞 Contact Us
+## Participating in the community
 
-Have questions, suggestions, or want to get in touch with the AI Hispano community? Feel free to reach out to us through the following channels:
+🫂 We aim to create a welcoming and inclusive community. Please note that AI Hispano's open source projects are governed by our [code of conduct](https://github.com/IAHispano/.github/blob/main/CODE_OF_CONDUCT.md).
 
-- Discord: [discord.gg/IAHispano](https://discord.gg/iahispano)
+## Get in touch!
 
-Let's build an AI community together! 🤝
+Learn more about what we're doing in open source at [discord.gg/IAHispano](https://discord.gg/IAHispano).
