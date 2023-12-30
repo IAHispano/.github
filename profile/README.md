@@ -1,4 +1,4 @@
-![BANNER](https://github.com/IAHispano/.github/assets/133521603/846943de-c57b-4c7c-b460-c33afca4fd8f)
+![BANNER](https://github.com/IAHispano/.github/assets/133521603/1de17cfa-04c1-4bad-a2f1-4976bd143a39)
 
 We are a community-driven organization dedicated to promoting and advancing Artificial Intelligence. This is the official GitHub repository where we host our programming projects and contribute to the growth of the AI Hispano community.
 
