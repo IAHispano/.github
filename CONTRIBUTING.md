@@ -1,75 +1,43 @@
-# Contributing Guidelines
+# Contributing to AI Hispano
 
-👍🎉 Thank you for considering contributing to IA Hispano! 🤖🌍
+Thank you for your interest in contributing to AI Hispano! We’re excited to have you here, and we can’t wait to see what you’ll bring to our community-driven organization. This guide will walk you through how you can participate and contribute to our open-source projects.
 
-We welcome contributions from everyone, regardless of their level of expertise or experience. By contributing to IA Hispano, you are not only helping us improve our projects but also fostering the growth of the AI community in the Spanish-speaking world.
+## How to Contribute
 
-To ensure a smooth collaboration experience, please take a moment to review the following guidelines.
+There are several ways you can get involved:
 
-## Table of Contents
+### 1. Reporting Issues
+If you encounter bugs or have feature requests, you can help by [reporting an issue](https://github.com/IAHispano/Applio/issues). Please use clear, detailed information to help us understand the problem. Include:
+- A brief description of the issue.
+- Steps to reproduce the bug (if applicable).
+- Any suggestions you have for solving the problem.
 
-- [Code of Conduct](#code-of-conduct)
-- [Ways to Contribute](#ways-to-contribute)
-- [Submitting Contributions](#submitting-contributions)
-- [Pull Request Guidelines](#pull-request-guidelines)
-- [Issues](#issues)
-- [Communication](#communication)
+### 2. Suggesting Enhancements
+AI is a rapidly evolving field, and we welcome ideas for improvement! If you have an idea for an enhancement, please:
+- Open a [new issue](https://github.com/IAHispano/Applio/issues/new) and describe your suggestion.
+- Include why you think this enhancement would be useful.
+- Mention any alternatives you’ve considered.
 
-## Code of Conduct
+### 3. Submitting Code
+We are always looking for new code contributions, including new features, bug fixes, and documentation improvements. Here’s how you can submit code:
+1. **Fork the repository** you want to contribute to.
+2. **Create a branch** for your feature or fix:  
+   ```
+   git checkout -b your-branch-name
+   ```
+3. **Make your changes** and commit them to your branch. Write a clear commit message.
+4. **Push to your fork** and submit a [Pull Request (PR)](https://github.com/IAHispano/Applio/pulls).
 
-IA Hispano follows a [Code of Conduct](CODE_OF_CONDUCT.md) that sets the standards for respectful and inclusive participation in our community. We kindly ask all contributors to adhere to these guidelines when engaging with IA Hispano projects, discussions, and events.
+#### Code Style Guidelines
+- Follow existing styles in the project you’re contributing to.
+- Make sure your code is clean, readable, and well-documented.
 
-## Ways to Contribute
+### 4. Improving Documentation
+If you find areas of our documentation that need improvement, we’d love your help! Whether it’s fixing a typo or writing new tutorials, all contributions are appreciated. You can:
+- Edit markdown files directly in GitHub or locally.
+- Submit your changes via a [Pull Request](https://github.com/IAHispano/Applio/pulls).
 
-There are multiple ways to contribute to IA Hispano:
+## Community & Discussions
 
-- **Website**: Help us improve the IA Hispano website by fixing bugs, enhancing features, or creating new sections/pages.
-- **Projects**: Contribute to specific projects hosted within our repositories by submitting bug reports, implementing new features, or suggesting improvements.
-- **Documentation**: Help us improve the documentation of our projects by fixing errors, clarifying instructions, or adding missing information.
-- **Community Engagement**: Participate in discussions, forums, and online events to share your knowledge, ask questions, and help others in the IA Hispano community.
-
-## Submitting Contributions
-
-To contribute to IA Hispano, follow these steps:
-
-1. Fork the repository to your GitHub account.
-2. Clone the forked repository to your local machine.
-3. Create a new branch from the `main` branch for your contributions: `git checkout -b your-branch-name`.
-4. Make your changes and ensure the code adheres to the project's coding conventions and guidelines.
-5. Commit your changes with clear and descriptive commit messages.
-6. Push your changes to your forked repository.
-7. Submit a pull request (PR) to the original IA Hispano repository, clearly describing the purpose of the PR and any relevant information or context.
-
-Our team will review your contribution as soon as possible. We appreciate your patience and will provide feedback or request changes if needed.
-
-## Pull Request Guidelines
-
-When submitting a pull request, please:
-
-- Provide a clear and descriptive title for the pull request.
-- Include a summary of the changes made and the rationale behind them.
-- Reference any related issues or pull requests, if applicable.
-- Ensure your code passes all tests and follows the project's coding conventions.
-- Be responsive to feedback and be prepared to make changes if requested.
-
-## Issues
-
-If you encounter any issues, have questions, or want to suggest new features or improvements, you can use the GitHub issue tracker for the respective project. Before opening a new issue, please search existing issues to avoid duplication.
-
-When creating an issue, please provide:
-
-- A clear and descriptive title.
-- Detailed steps to reproduce the issue, if applicable.
-- Any relevant error messages or logs.
-- The expected behavior and any other information that might be helpful.
-
-## Communication
-
-We value open and transparent communication. You can reach out to us through the following channels:
-
-- Website: [www.iahispano.com](https://iahispano.com)
-- Email: contacto@iahispano.org
-- Twitter: [@IAHispano](https://twitter.com/IAHispano)
-- Discord: [IA Hispano Community](https://discord.gg/iahispano)
-
-Thank you for your contribution and dedication to the IA Hispano community! 🎉🤝🌟
+Want to discuss your ideas, ask questions, or connect with other community members?  
+Join our Discord at [discord.gg/IAHispano](https://discord.gg/IAHispano) for real-time conversations.
