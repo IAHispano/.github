@@ -8,4 +8,4 @@ We are a community-driven organization dedicated to promoting and advancing Arti
 
 ## Get in touch!
 
-Learn more about what we're doing in open source at [discord.gg/IAHispano](https://discord.gg/IAHispano).
+Learn more about what we're doing in open source at [Discord](https://discord.gg/ai-hispano-1096877223765606521).
